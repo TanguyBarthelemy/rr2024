@@ -24,31 +24,31 @@ Dans ce répertoire, vous trouverez :
 
 ## 🙋 Comment poser une question ?
 
-Pour poser une question, vous pouvez nous envoyer un courriel à Anna
+Pour poser une question, vous pouvez nous envoyer un mail à Anna
 (<anna.smyk@insee.fr>) et à moi (<tanguy.barthelemy@insee.fr>) ou
-remplir un formulaire directement sur GitHub. Pour compléter un problème
-sur GitHub, vous devez :
+remplir une issue directement sur GitHub. Pour créer une issue sur
+GitHub, vous devez :
 
-1.  aller dans l’onglet *Issues* :
+1.  Aller dans l’onglet *Issues* :
 
 <p align="center">
 <img src="https://github.com/TanguyBarthelemy/rr2024/blob/main/figures/issue/issue_panel.png?raw=true">
 </p>
 
-2.  Cliquez sur *Nouveau numéro* :
+2.  Cliquez sur *New issue* :
 
 <p align="center">
 
 <img src="https://github.com/TanguyBarthelemy/rr2024/blob/main/figures/issue/create_issue.png?raw=true">
 
 3.  Choisissez l’un des thèmes proposés dans la liste et cliquez sur
-    *Démarrer* :
+    *Get started* :
 
 <p align="center">
 
 <img src="https://github.com/TanguyBarthelemy/rr2024/blob/main/figures/issue/choose_issue.png?raw=true">
 
-4.  Remplissez la question avec un titre et un texte pour expliquer le
+4.  Remplissez l’issue avec un titre et un texte pour expliquer le
     problème ou la demande et cliquez sur *Submit new issue* :
 
 <p align="center">
