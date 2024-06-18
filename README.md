@@ -10,7 +10,7 @@
 
 Aperçu du poster :
 
-[<img src="https://github.com/TanguyBarthelemy/rr2024/blob/main/figures/poster.png?raw=true">](https://github.com/TanguyBarthelemy/rr2024/blob/main/poster_RR.pdf)
+[<img src="https://github.com/TanguyBarthelemy/rr2024/blob/main/figures/poster.png?raw=true">](https://github.com/TanguyBarthelemy/rr2024/blob/main/poster_RR.pdf?raw=true)
 
 ## 👉 Contenu
 
